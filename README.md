@@ -97,6 +97,11 @@ https://docs.python.org/release/3.12.0/
 11. DVC [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://dvc.org/)[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=mHQPzVse2oA)
 12. Dockers [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=8vmKtS8W7IQ)
 
+#### Agile Software Development And Data Science Project Development Life Cycle [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=gYsU2VTESE8)
+![image](https://github.com/krishnaik06/AI-Engineer-Roadmap-2024/assets/20041231/253efaed-a6d4-4c6e-bb65-5d10b4ed0cab)
+
+
+
 #### End To End ML,DL,NLP Projects With MLOPS With Deployment And Open Source Tools
 1. End To End ML Projects Playlist In English: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=S_F_c9e2bz4&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=1)
 2. End To End ML Playlist In Hindi: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=NuwUnRpxq2c&list=PLTDARY42LDV7jzL_f68SY-eOQ9tY2lYvR)
