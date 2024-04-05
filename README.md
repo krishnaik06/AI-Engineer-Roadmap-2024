@@ -29,6 +29,11 @@ https://docs.python.org/release/3.12.0/
 
 3. Stats Hindi Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ)
 
+### Free Courses On Linear Algebra, Stats
+1. Linear Algebra: https://www.khanacademy.org/math/linear-algebra
+2. Statistics: https://www.khanacademy.org/math/statistics-probability
+3. Differential Equations: https://www.khanacademy.org/math/differential-equations
+
 ### EDA
 1. EDA Live :[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/playlist?list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
 
@@ -95,5 +100,15 @@ https://docs.python.org/release/3.12.0/
 #### End To End ML,DL,NLP Projects With MLOPS With Deployment And Open Source Tools
 1. End To End ML Projects Playlist In English: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=S_F_c9e2bz4&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=1)
 2. End To End ML Playlist In Hindi: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=NuwUnRpxq2c&list=PLTDARY42LDV7jzL_f68SY-eOQ9tY2lYvR)
+
+#### Generative AI And Langchain Playlist:
+![image](https://github.com/krishnaik06/AI-Engineer-Roadmap-2024/assets/20041231/1f22a467-853d-4e1a-87fe-795fb460afd8)
+
+1. Updated Langchain Playlist:[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=KmQOlg5YfU0&list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ&pp=gAQBiAQB)
+2. Finetuning Techniques LLM:[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=Vg3dS-NLUT4&list=PLZoTAELRMXVN9VbAx5I2VvloTtYmlApe3&pp=gAQBiAQB)
+3. AWS Bedrock:[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=2maPaQutcWs&list=PLZoTAELRMXVP8-wzKPtrRST3jNCprvMZj&pp=gAQBiAQB)
+4. Llamaindex Playlist:[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=1eym7BTnuNg&list=PLZoTAELRMXVNOWh1SDXt5NFujQMOt-CWy&pp=gAQBiAQB)
+5. Google Gemini Playlist With Projects:[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=it0l6lx3qI0&list=PLZoTAELRMXVNbDmGZlcgCA3a8mRQp5axb&pp=gAQBiAQB)
+6. Langchain Playlist:[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=4O1rs7mrNDo&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar&pp=gAQBiAQB)
 
 
