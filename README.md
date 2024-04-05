@@ -104,6 +104,8 @@ https://docs.python.org/release/3.12.0/
 #### Generative AI And Langchain Playlist:
 ![image](https://github.com/krishnaik06/AI-Engineer-Roadmap-2024/assets/20041231/1f22a467-853d-4e1a-87fe-795fb460afd8)
 
+#### Roadmap To Generative AI [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=nCglvjJkU8A)
+
 1. Updated Langchain Playlist:[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=KmQOlg5YfU0&list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ&pp=gAQBiAQB)
 2. Finetuning Techniques LLM:[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=Vg3dS-NLUT4&list=PLZoTAELRMXVN9VbAx5I2VvloTtYmlApe3&pp=gAQBiAQB)
 3. AWS Bedrock:[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=2maPaQutcWs&list=PLZoTAELRMXVP8-wzKPtrRST3jNCprvMZj&pp=gAQBiAQB)
