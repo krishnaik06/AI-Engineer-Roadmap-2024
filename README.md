@@ -113,6 +113,10 @@ https://docs.python.org/release/3.12.0/
 5. Google Gemini Playlist With Projects:[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=it0l6lx3qI0&list=PLZoTAELRMXVNbDmGZlcgCA3a8mRQp5axb&pp=gAQBiAQB)
 6. Langchain Playlist:[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=4O1rs7mrNDo&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar&pp=gAQBiAQB)
 
+## Special Mention [Good To Have Skills]
+1. Knowledge Of Big Data Engineering
+2. Knowledge On Cloud Engineering[AWS,GCP,Azure]
+
 ## Internships:
 ![Red White Modern Youtube Thumbnail (2)](https://user-images.githubusercontent.com/20041231/211718275-abc43b47-b53d-40d7-a93c-24aceaa6bec8.jpg)
 
