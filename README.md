@@ -113,4 +113,22 @@ https://docs.python.org/release/3.12.0/
 5. Google Gemini Playlist With Projects:[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=it0l6lx3qI0&list=PLZoTAELRMXVNbDmGZlcgCA3a8mRQp5axb&pp=gAQBiAQB)
 6. Langchain Playlist:[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=4O1rs7mrNDo&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar&pp=gAQBiAQB)
 
+## Internships:
+![Red White Modern Youtube Thumbnail (2)](https://user-images.githubusercontent.com/20041231/211718275-abc43b47-b53d-40d7-a93c-24aceaa6bec8.jpg)
+
+iNeuron Internships: https://internship.ineuron.ai/
+
+## Data Science Tracker Sheet For Learning
+https://drive.google.com/file/d/18doA_wMja2nAawcE6imIcfnEMf-Pir2n/view
+
+## Youtube Channels For Referring All Videos. Consider Subscribing and pressing the bell icon.
+
+- Krish Naik : https://www.youtube.com/@krishnaik06
+- Krish Naik Hindi: https://www.youtube.com/@krishnaikhindi
+- Success Stories By Krish(Coming up): https://www.youtube.com/channel/UCNSHtBgZ3dhcpv190JrK_LQ
+- Support Channel and Join this channel to get access to perks: https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig/join our Data Science Project
+- Instagram [![YouTube](https://img.shields.io/badge/Instagram-link-red)](https://instagram.com/krishnaik06)
+- Telegram  [![YouTube](https://img.shields.io/badge/Telegram-link-red)](https://t.me/+V0UeLG8ji-F8ThNb)
+
+
 
